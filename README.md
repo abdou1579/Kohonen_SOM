@@ -10,4 +10,4 @@ $w{ij} = w_{ij}(old) + alpha(t) *  (x_{i}^{k} - w_{ij}(old))$
 
 ⚡ where alpha is a learning rate at time t, j denotes the winning vector, i denotes the ith feature of training example and k denotes the kth training example from the input data. After training the SOM network, trained weights are used for clustering new examples. A new example falls in the cluster of winning vectors. 
 ### Results 
-![SNOWFALL](map.png)
+![SNOWFALL](map.PNG)
